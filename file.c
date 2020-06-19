@@ -5,7 +5,7 @@ int main()
 
 {
     
-  int n2,lcm;
+  int n1,n2,lcm;
     
   printf("Enter two positive integers: ");
     
@@ -26,6 +26,18 @@ int main()
             
             printf("The LCM of %d and %d is %d.",n1,n2,lcm);
             
+              break;
+          
+         }
+        
+          
+         ++lcm;
+       
+    }
+    
+   return 0;
+
+}
              
           
          }
