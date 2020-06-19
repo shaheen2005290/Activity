@@ -37,16 +37,4 @@ int main()
     
    return 0;
 
-}
-             
-          
-         }
-        
-          
-         ++lcm;
-       
-    }
-    
-   return 0;
 
-}
